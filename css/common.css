@@ -1,0 +1,79 @@
+/*margin*/
+.mt-14{
+	margin-top:14px;
+}
+.mb-10{
+	margin-bottom: 10px;
+}
+.mg-a{
+	margin: 0 auto;
+}
+.ml-14{
+	margin-left: 14px;
+}
+.ml-30{
+	margin-left: 30px;
+}
+.mr-14{
+	margin-right: 14px;
+}
+/*padding*/
+.pt-18{
+	padding-top: 18px;
+}
+/*border*/
+.bd{
+	border:1px solid red;
+}
+/*font*/
+.f-12{font-size: 12px;}
+.f-14{
+	font-size: 14px;
+}
+.fw-400{
+	font-weight: 400px;
+}
+/*text*/
+.t-c{
+	text-align: center;
+}
+
+/*float*/
+
+.f-l{
+	float: left;
+}
+.f-r{
+	float: right;
+}
+/*color*/
+.c-c{
+	color:#ccc;
+}
+.c-0{
+	color:#000;
+}
+.c-3{
+	color:#333;
+}
+.c-orange{
+	color:#ff6700;
+}
+.c-item4{
+	color:#83c44e;
+}
+.c-item6{
+	color: #ffac13;
+}
+.c-item7{
+	color:#e53935;
+}
+.c-item8{
+	color:#2196f3;
+}
+/*浮动起来的块*/
+.brick-float:hover{
+	transform:translate3d(0,-2px,0);
+	box-shadow: 0 15px 30px rgba(0,0,0,.1);
+	transition: all .2s linear;
+}
